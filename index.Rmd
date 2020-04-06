@@ -1,0 +1,88 @@
+---
+title: "Aaron Clients Spring 2020"
+output: 
+  html_document:
+   toc: true
+   toc_float: true
+---
+
+## COKA
+### Wednesdays 1:00
+[Zoom Link](https://zoom.us/j/954389140?pwd=VmFuVnRHblZvWmdXVEhiK09qZmRidz09)
+
+#### Password
+726816
+
+#### Sesion Dates
+* Apr 8, 2020 02:00 PM
+* Apr 15, 2020 02:00 PM
+* Apr 22, 2020 02:00 PM
+* Apr 29, 2020 02:00 PM
+* May 6, 2020 02:00 PM
+* May 13, 2020 02:00 PM
+* May 20, 2020 02:00 PM
+* May 27, 2020 02:00 PM
+* Jun 3, 2020 02:00 PM
+
+
+
+## TODO
+### Thursdays 11:00
+[Zoom Link](https://zoom.us/j/405860232?pwd=bDhYK3pUeW15VEtRUVoyQnZ3TjBnZz09)
+
+#### Password
+645660
+
+#### Session Dates
+* Apr 9, 2020 03:00 PM
+* Apr 16, 2020 03:00 PM
+* Apr 23, 2020 03:00 PM
+* Apr 30, 2020 03:00 PM
+* May 7, 2020 03:00 PM
+* May 14, 2020 03:00 PM
+* May 21, 2020 03:00 PM
+* May 28, 2020 03:00 PM
+* Jun 4, 2020 03:00 PM
+
+
+
+## BEKY
+### Thursdays 1:00
+[Zoom Link](https://zoom.us/j/582746127?pwd=ckQvdUd1RnhOWEFsUlJ0d1ZMMGU1UT09)
+
+#### Password
+816947
+
+#### Session Dates
+* Apr 9, 2020 03:00 PM
+* Apr 16, 2020 03:00 PM
+* Apr 23, 2020 03:00 PM
+* Apr 30, 2020 03:00 PM
+* May 7, 2020 03:00 PM
+* May 14, 2020 03:00 PM
+* May 21, 2020 03:00 PM
+* May 28, 2020 03:00 PM
+* Jun 4, 2020 03:00 PM
+
+
+
+## BRRUS
+### Thursdays 2:00
+[Zoom Link](https://zoom.us/j/750036730?pwd=S2VvOGNrcGVaa25xMXUwOUwvQkkyQT09)
+
+#### Password
+555903
+
+#### Session Dates
+* Apr 9, 2020 03:00 PM
+* Apr 16, 2020 03:00 PM
+* Apr 23, 2020 03:00 PM
+* Apr 30, 2020 03:00 PM
+* May 7, 2020 03:00 PM
+* May 14, 2020 03:00 PM
+* May 21, 2020 03:00 PM
+* May 28, 2020 03:00 PM
+* Jun 4, 2020 03:00 PM
+
+
+
